@@ -1,2 +1,3 @@
 # hello-world
 My first repository on GitHub
+I love : la fruta tropical, me fascina codificar,aprender,laos tutoriales de aprendizaje,  el cerebro de  personas innatas, meditar...
